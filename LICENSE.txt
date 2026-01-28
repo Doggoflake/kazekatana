@@ -7,6 +7,8 @@ Homepage: http://minecraftforge.net/
           https://github.com/MinecraftForge/MinecraftForge
           
 
+Like please don't take my block bench models those took very long time, also, don't take my png's either, I will figure something out once of completed this project, so if you want stuff just chill out and check back in, in like 2030 when It may or may not be done, bruv like I dunno man just leave my code alone unless your giving advice or something because It's not like I completely understand all this, it's very complicated, and it took like 12,000 years to get this freaking project on to github, I don't know why it was so hard it just was also I feel like I am getting carpal tunnel writing this so whatever, deal with it.
+
 A note on authorship:
 All source artifacts are property of their original author, with
 the exclusion of the contents of the patches directory and others
