@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "bottom": "kazekatana:block/appaku_tatara_furnace_bottom",
+    "front": "kazekatana:block/appaku_tatara_furnace_front_on",
+    "side": "kazekatana:block/appaku_tatara_furnace_side",
+    "top": "kazekatana:block/appaku_tatara_furnace_top"
+  }
+}

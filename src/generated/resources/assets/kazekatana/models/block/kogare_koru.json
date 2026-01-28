@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "kazekatana:block/kogare_koru_bottom",
+    "side": "kazekatana:block/kogare_koru_side",
+    "top": "kazekatana:block/kogare_koru_top"
+  }
+}

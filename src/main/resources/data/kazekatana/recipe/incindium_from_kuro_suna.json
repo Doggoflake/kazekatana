@@ -1,0 +1,11 @@
+{
+  "type": "kazekatana:basetatarasmelting",
+  "ingredient": {
+    "item": "kazekatana:kuro_suna"
+  },
+  "result": {
+    "item": "kazekatana:incindium_steel",
+    "count": 1
+  }
+}
+

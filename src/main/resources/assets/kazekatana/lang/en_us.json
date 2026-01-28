@@ -1,0 +1,60 @@
+{
+  "creativetab.katana_materials": "Katana Materials",
+  "creativetab.blocks": "Kaze Blocks",
+
+  "item.kazekatana.incindium_steel": "Incindium Steel",
+  "item.kazekatana.zero_steel": "Zero Steel",
+  "item.kazekatana.crystal_steel": "Crystal Steel",
+
+  "item.kazekatana.cardinal_steel": "Cardinal Steel",
+
+
+  "item.kazekatana.cold_steel": "Cold Steel",
+  "item.kazekatana.speed_steel": "Speed Steel",
+
+
+
+  "item.kazekatana.mizu_koru": "Mizu Koru",
+  "item.kazekatana.infernal_koru": "Infernal Koru",
+
+  "item.kazekatana.incindium_toshin": "Incindium Toshin",
+  "item.kazekatana.incindium_koshirae": "Incindium Koshirae",
+
+  "item.kazekatana.zero_toshin": "Zero Steel Toshin",
+  "item.kazekatana.zero_koshirae": "Zero Steel Koshirae",
+
+  "item.kazekatana.crystal_toshin": "Crystal Toshin",
+  "item.kazekatana.crystal_koshirae": "Crystal Koshirae",
+
+  "item.kazekatana.cardinal_toshin": "Cardinal Toshin",
+  "item.kazekatana.cardinal_koshirae": "Cardinal Koshirae",
+
+  "block.kazekatana.tatara_furnace": "Tatara Furnace",
+  "item.kazekatana.tatara_furnace": "Tatara Furnace",
+
+  "block.kazekatana.appaku_tatara_furnace": "Appaku Tatara Furnace",
+  "item.kazekatana.appaku_tatara_furnace": "Appaku Tatara Furnace",
+
+  "item.kazekatana.kuro_suna": "Kuro Suna",
+  "block.kazekatana.kuro_suna": "Kuro Suna",
+
+  "item.kazekatana.infernite": "Infernite",
+  "block.kazekatana.infernite": "Infernite",
+
+  "item.kazekatana.kogare_koru": "Kogare Koru",
+  "block.kazekatana.kogare_koru": "Kogare Koru",
+
+  "item.kazekatana.shinku_kobutsu": "Shinku Kobutsu",
+  "block.kazekatana.shinku_kobutsu": "Shinku Kobutsu",
+
+  "item.kazekatana.incindium_steel_block": "Incindium Steel Block",
+  "block.kazekatana.incindium_steel_block": "Incindium Steel Block",
+
+  "item.kazekatana.crystal_steel_block": "Crystal Steel Block",
+  "block.kazekatana.crystal_steel_block": "Crystal Steel Block",
+
+  "itemGroup.kazekatana": "KazeKatana",
+  "tooltip.kazekatana.transformable_items": "Can be transformed in the Tatara Furnace",
+  "tooltip.kazekatana.incindium_info": "A refined alloy with unusual properties",
+  "tooltip.kazekatana.crystal_info": "Shimmering steel infused with crystal fragments"
+}

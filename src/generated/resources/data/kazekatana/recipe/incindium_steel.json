@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "kazekatana:incindium_steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "kazekatana:incindium_steel"
+  }
+}

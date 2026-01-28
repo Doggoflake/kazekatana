@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "kazekatana:block/incindium_steel_block"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "kazekatana:basetatarasmelting",
+  "ingredient": { "item": "minecraft:coal" },
+  "result": { "item": "minecraft:iron_ingot", "count": 1 }
+}

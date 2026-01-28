@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_crystal_steel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kazekatana:crystal_steel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kazekatana:crystal_steel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_crystal_steel"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kazekatana:crystal_steel"
+    ]
+  }
+}

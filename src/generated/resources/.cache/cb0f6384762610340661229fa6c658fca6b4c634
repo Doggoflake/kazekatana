@@ -1,0 +1,4 @@
+// 1.21.1	2026-01-08T16:35:36.4512918	Tags for minecraft:block mod id kazekatana
+a8f7c39cf6998b7836a8b95fe8beed1df04a6b41 data/minecraft/tags/block/mineable/pickaxe.json
+a8f7c39cf6998b7836a8b95fe8beed1df04a6b41 data/minecraft/tags/block/mineable/shovel.json
+b01bd958bc24094129a67a8b537272c939f1a687 data/minecraft/tags/block/needs_iron_tool.json
